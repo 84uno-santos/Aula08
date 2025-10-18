@@ -59,3 +59,9 @@ node script.js // executar script.js no node
  * **  potência
  */
 
+
+Dica VS Code 
+
+Duplicar linha
+
+Shift + Alt + Setas Cima/Baixo      
