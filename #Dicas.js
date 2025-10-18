@@ -4,15 +4,15 @@
 // case sensitive
 /* comentário trecho */ 
 // comentário linha
-let // variável
-const // constante
-var // variável (não usar mais)
-console.log // imprimir no console
+let ; // variável
+const ; // constante
+var ; // variável (não usar mais)
+console.log ; // imprimir no console
 alert // abre janela de alerta
 prompt // abre janela pra entrada do usuário
 
 // no html é boa prática colocar o script no final do body
-<script src="script.js"></script>
+<script src="script.js"> </script>
 
 
 /* CTRL ' Abrir prompt no VS Code */
@@ -60,8 +60,7 @@ node script.js // executar script.js no node
  */
 
 
-Dica VS Code 
-
-Duplicar linha
-
-Shift + Alt + Setas Cima/Baixo      
+/** Dica VS Code 
+*   Duplicar linha
+*   Shift + Alt + Setas Cima/Baixo
+*/

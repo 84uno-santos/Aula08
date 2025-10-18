@@ -12,13 +12,13 @@ let opcao = 3;
 
 // Usando IF
 
-if opcao == 1 {
+if (opcao == 1) {
     console.log("Escolheu Cadastro");
-}   else if opcao == 2 {
+}   else if (opcao == 2) {
     console.log("Escolheu Consulta");
-}   else if opcao == 3 {                
+}   else if (opcao == 3) {                
     console.log("Escolheu Alteração");
-}   else if opcao == 4 {        
+}   else if (opcao == 4) {        
     console.log("Escolheu Exclusão");
 }   else {          
     console.log("Opção Inválida!");
