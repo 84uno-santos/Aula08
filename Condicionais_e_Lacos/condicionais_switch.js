@@ -11,7 +11,7 @@ console.log("4 - Exclusão");
 let opcao = 3;
 
 // Usando IF
-/*
+
 if opcao == 1 {
     console.log("Escolheu Cadastro");
 }   else if opcao == 2 {
@@ -23,8 +23,6 @@ if opcao == 1 {
 }   else {          
     console.log("Opção Inválida!");
 }   
-*/
-
 
 // Usando SWITCH
 switch (opcao) {
